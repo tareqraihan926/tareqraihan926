@@ -1,3 +1,4 @@
+![logo](https://github.com/tareqraihan926/tareqraihan926/blob/main/Profile_Banner_1.jpeg)
 <h1 align="center">Hi 👋, I'm Tareq Raihan</h1>
 <h3 align="center">A passionate Cybersecurity Engineer from Bangladesh.</h3>
 
