@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqraihan926&label=Profile%20views&color=0e75b6&style=flat" alt="tareqraihan926" /> </p>
 
-- 🌱 I’m currently learning **VAPT,Digital Forensics,Cyber-crime Investigations,RE,Cryptography**
+- 🔭 Assistant Researcher **at ICE Innovation Lab**
+
+- 🔭 CTF Team Lead **at Team- Big Fortress Down**
+
+- 🌱 I’m currently learning **VAPT,Digital Forensics,Cyber-crime Investigations,Reverse Engineering,Cryptography,OSINT**
 
 - 📫 How to reach me **tareqhasan926ice@gmail.com**
 
