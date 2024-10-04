@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tareqhasan926ice@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/tareqraihan](https://tinyurl.com/tareqraihan)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
