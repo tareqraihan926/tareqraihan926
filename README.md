@@ -10,7 +10,7 @@
 
 - 🔭 CTF Team Lead **at Team- Big Fortress Down**
 
-- 🌱 I’m currently learning **VAPT,Digital Forensics,Cyber-crime Investigations,Reverse Engineering,Cryptography,OSINT**
+- 🌱 I’m currently working **VAPT,Digital Forensics,Cyber-crime Investigations,Reverse Engineering,Cryptography,OSINT**
 
 - 📫 How to reach me **tareqhasan926ice@gmail.com**
 
