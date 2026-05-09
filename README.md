@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqraihan926&label=Profile%20views&color=0e75b6&style=flat" alt="tareqraihan926" /> </p>
 
-- 🔭 Assistant Researcher **at ICE Innovation Lab**
+- 🔭 Research Collaborator **at BUBT Cyber Research Lab**
 
 - 🔭 CTF Team Lead **at Team- Big Fortress Down**
 
