@@ -11,7 +11,7 @@
 - 🔭 CTF Team Lead **at Team- Big Fortress Down**
 
 - 🌱 I’m currently working with **Hardware Security, Product Security, Adversary Emulation, Red Team Activities, Threat Intelligence Development, Lead Red
-Team, Digital Forensics,Cyber-crime Investigations, Cryptography, Advance Cybersecurity Research**
+Team, Digital Forensics & Cyber-crime Investigations, Cryptography, Advance Cybersecurity Research**
 
 - 📫 How to reach me **tareqhasan926ice@gmail.com**
 
